@@ -912,6 +912,10 @@ html.mfp-helper {
   margin-bottom: -24px;
 }
 
+.single-contact-info ul li a {
+  color: inherit;
+}
+
 .main-content#about .content .profile-wrapper .general-info .grouping-profile-wrapper ul.single-grouping-profile:nth-of-type(odd) {
   padding-right: 15px;
 }
